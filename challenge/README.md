@@ -1,1 +1,1 @@
-FizzBuzz challenge fix
+Print square challenge fix

@@ -1,1 +1,1 @@
-Fix My Code Challenge - Python FizzBuzz
+Fix My Code Challenge - JavaScript Print Square
